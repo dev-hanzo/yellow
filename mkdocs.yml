@@ -7,12 +7,6 @@ repo_url: https://github.com/gaseri/website/
 edit_uri: edit/main/docs/
 nav:
   - GASERI: index.md
-  - 🇭🇷 Sadržaj na hrvatskom:
-    - O grupi: hr/index.md
-    - Ljudi: hr/ljudi.md
-    - Znanstveni program mentora: hr/znanstveni-program-mentora.md
-    - Istraživanje i razvoj: hr/istrazivanje-i-razvoj.md
-    - Partnerstva i suradnje: hr/partnerstva-i-suradnje.md
     - Nastava:
       - O nastavi: hr/nastava/index.md
       - Izvedbeni planovi:
@@ -115,6 +109,11 @@ markdown_extensions:
       custom_checkbox: true
 plugins:
   - search
-  - social
+  - social:
+      cards_font: Noto Sans SC
+      cards_color:
+        fill: "#0FF1CE" 
+        text: "#FFFFFF"
+
   - tags:
       tags_file: en/blog/index.md
