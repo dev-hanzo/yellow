@@ -26,7 +26,6 @@ theme:
     - navigation.instant
     - navigation.indexes
     - navigation.sections
-    - navigation.tabs
     - navigation.top
     - navigation.tracking
     - toc.follow
