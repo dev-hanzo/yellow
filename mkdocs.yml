@@ -5,21 +5,7 @@ site_url: https://222.peter-hanzo.net/
 copyright: Copyright
 repo_url: https://github.com/gaseri/website/
 edit_uri: edit/main/docs/
-# nav:
-#  - GASERI: index.md
-#  - 🇭🇷 Sadržaj na hrvatskom:
-#    - O grupi: hr/index.md
-#    - Ljudi: hr/ljudi.md
-#    - Znanstveni program mentora: hr/znanstveni-program-mentora.md
-#    - Istraživanje i razvoj: hr/istrazivanje-i-razvoj.md
-#    - Partnerstva i suradnje: hr/partnerstva-i-suradnje.md
-#    - Nastava:
-#      - O nastavi: hr/nastava/index.md
-#      - Izvedbeni planovi:
-#        - Akademska godina 2022./2023.:
-#          - Informatika (BioTech): hr/nastava/izvedbeni/2022-2023/INF-BioTech.md
-#        - Browser wars: en/blog/2015-05-01-browser-wars.md
-#    - Very important information: en/very-important-information.md
+
 theme:
   name: material
   custom_dir: overrides
