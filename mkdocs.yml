@@ -107,5 +107,5 @@ plugins:
         fill: "#0FF1CE" 
         text: "#FFFFFF"
 
-  - tags:
-      tags_file: en/blog/index.md
+#  - tags:
+#      tags_file: en/blog/index.md
