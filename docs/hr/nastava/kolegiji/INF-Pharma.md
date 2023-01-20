@@ -1,1 +1,0 @@
-# Informatika za farmaceute (MedRi)
