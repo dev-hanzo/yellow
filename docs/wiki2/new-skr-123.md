@@ -1,15 +1,16 @@
 ---
 share: true
-title: new skr 123 
+title: new skr 123
+og_title: The 'Scoop' 
 category: wiki2
-description: из description
+description: описание  description222
 ---
 
 # первое
 
 ⛔ описание из des
 
-![](../_Files_/0e9eb07ed8dc2bc2f1f35ebdcaea1439.png)<i class="fa-regular fa-circle-xmark"></i>
+<i class="fa-regular fa-circle-xmark"></i>
 # второе
 
 <script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="foranalysts/4960" data-width="100%"></script>
@@ -22,7 +23,7 @@ description: из description
 # skr4
 
 -----------------------------
-
+![](../_Files_/0e9eb07ed8dc2bc2f1f35ebdcaea1439.png)
 
 - список
 	- два 
